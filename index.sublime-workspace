@@ -1,0 +1,383 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fot",
+				"font-size\tproperty"
+			],
+			[
+				"flex",
+				"flex-direction\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"box-",
+				"box-sizing\tproperty"
+			],
+			[
+				"ma",
+				"margin\tproperty"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"my",
+				"mysql_connect"
+			],
+			[
+				"M",
+				"Mes"
+			],
+			[
+				"fon",
+				"font\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"marg",
+				"margin\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"mar",
+				"margin-bottom\tproperty"
+			],
+			[
+				"bag",
+				"background-color\tproperty"
+			],
+			[
+				"background",
+				"background-image\tproperty"
+			],
+			[
+				"a",
+				"auto\tmargin-left"
+			],
+			[
+				"bac",
+				"background\tproperty"
+			],
+			[
+				"ba",
+				"border-image\tproperty"
+			],
+			[
+				"ali",
+				"align-items\tproperty"
+			],
+			[
+				"back",
+				"background-size\tproperty"
+			],
+			[
+				"b",
+				"boton-amarillo"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"inl",
+				"inline-block\tdisplay"
+			],
+			[
+				"text",
+				"text-decoration\tproperty"
+			],
+			[
+				"font",
+				"font-weight\tproperty"
+			],
+			[
+				"min",
+				"min-width\tproperty"
+			],
+			[
+				"h",
+				"h3\tTag"
+			],
+			[
+				"spa",
+				"space-between\tjustify-content"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"col",
+				"col-md-3"
+			],
+			[
+				"i",
+				"img\tTag"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"im",
+				"border-image-width\tproperty"
+			],
+			[
+				"img",
+				"background-image\tproperty"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"ca",
+				"caption\tTag"
+			],
+			[
+				"bor",
+				"bgcolor\tAttr"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/nelly/Desktop/formulario/css/estilos.css",
+		"/C/Users/nelly/Desktop/formulario/js/scrip.js",
+		"/C/Users/nelly/Desktop/formulario/index.html",
+		"/C/Users/nelly/Desktop/PROYECTO/comentarios.html",
+		"/C/Users/nelly/Desktop/PROYECTO/reg.php",
+		"/C/Users/nelly/Desktop/PROYECTO/estilos/estilos.css",
+		"/C/wamp64/bin/apache/apache2.4.41/htdocs/contactanos.html",
+		"/C/Users/nelly/Desktop/PROYECTO/lugares.html",
+		"/C/Users/nelly/Desktop/PROYECTO/index.php",
+		"/C/Users/nelly/Desktop/TODOS LOS ARCHIVOS/booststrap/grid/index.html",
+		"/C/Users/nelly/Desktop/TODOS LOS ARCHIVOS/rivelino/Formulario_Nuevo.html",
+		"/C/Users/nelly/Desktop/PROYECTO/index.html",
+		"/C/Users/nelly/Desktop/TODOS LOS ARCHIVOS/booststrap/intro/index.html",
+		"/C/Users/nelly/Desktop/PROYECTO/.gitgnore",
+		"/C/Users/nelly/Desktop/PROYECTO/contactanos.php",
+		"/C/Users/nelly/Desktop/PROYECTO/inicio.html",
+		"/C/Users/nelly/Desktop/PROYECTO/nosotros.html",
+		"/C/Users/nelly/Desktop/PROYECTO/BD/proyecto_formulario.sql",
+		"/C/Users/nelly/Desktop/PROYECTO/bautizos.html",
+		"/C/Users/nelly/Desktop/TODOS LOS ARCHIVOS/booststrap/grid/estilos.css",
+		"/C/Users/nelly/Documents/bootstrap/x.html",
+		"/C/Users/nelly/Documents/bootstrap/index.html",
+		"/C/Users/nelly/Downloads/proyecto_formulario.sql",
+		"/C/Users/nelly/Desktop/proyecto1/index.html.html",
+		"/C/Users/nelly/Desktop/Club de programacion/Proyecto/CSS/style.css",
+		"/C/Users/nelly/Desktop/Club de programacion/index.html",
+		"/C/Users/nelly/Desktop/proyecto/index.html",
+		"/C/Users/nelly/Desktop/proyecto/css/styles.css",
+		"/C/Users/nelly/Desktop/proyecto/styles.css",
+		"/C/Users/nelly/Desktop/Pagina web/index.html.html",
+		"/C/Users/nelly/Desktop/proyecto/css/estilos.css",
+		"/C/Users/nelly/Desktop/booststrap/grid/index.html",
+		"/C/Users/nelly/Desktop/rivelino/java2.html",
+		"/C/Users/nelly/Desktop/booststrap/grid/estilos.css",
+		"/C/Users/nelly/Desktop/booststrap/intro/index.html",
+		"/C/Users/nelly/Desktop/booststrap/intro/js/jquery.js",
+		"/C/Users/nelly/Desktop/êspecialidad/java2.html",
+		"/C/Users/nelly/Desktop/êspecialidad/javas.html",
+		"/C/Users/nelly/Desktop/êspecialidad/aidi.css",
+		"/C/Users/nelly/Desktop/êspecialidad/x.html",
+		"/C/Users/nelly/Desktop/êspecialidad/jercicio en clase.html",
+		"/C/Users/nelly/Documents/4AMPG_SITIO/estilo.css",
+		"/C/Users/nelly/Documents/4AMPG_SITIO/EJEM.HTML",
+		"/C/Users/nelly/Documents/4AMPG_SITIO/LISTA NO ORDENADA.html",
+		"/C/Users/nelly/Desktop/examen/EXAMEN.html",
+		"/C/Users/nelly/Desktop/examen.html",
+		"/E/ESPECIALIDAD/semanticas.html",
+		"/C/Users/nelly/Documents/4AMPG_SITIO/SANGRIA.html",
+		"/C/Users/nelly/Documents/4AMPG_SITIO/imagen.html",
+		"/C/Users/nelly/Documents/4AMPG_SITIO/ESTACIONES DEL AÑO.html",
+		"/C/Users/nelly/Documents/4AMPG_SITIO/VIÑETA CON NUMEROS ROMANOS.html",
+		"/C/Users/nelly/Documents/4AMPG_SITIO/LISTA ORDENADA.html",
+		"/C/Users/nelly/Desktop/examen/examen",
+		"/E/ESPECIALIDAD/4AMPG_SITIO/imagen.html",
+		"/E/ESPECIALIDAD/Formulario_Nuevo.html",
+		"/E/ESPECIALIDAD/examen.html",
+		"/E/ESPECIALIDAD/etiquetas semanticas",
+		"/C/Users/nelly/Documents/4AMPG_SITIO/archivo.html",
+		"/C/Users/nelly/Documents/4AMPG_SITIO/archivo2.com"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
